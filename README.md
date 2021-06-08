@@ -8461,7 +8461,7 @@ HTTP/1.1 存在一个问题，单个 TCP 连接在同一时刻只能处理一个
 
  2 、检查本机host文件，
 
-3、调用API，Linux下Scoket函数 gethostbyname
+3、调用API，Linux下Socket函数 gethostbyname
 
 4、向DNS服务器发送DNS请求，查询本地DNS服务器，这其中用的是UDP的协议
 
